@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Matthew Carnevale'
+const name = 'Carnevale'
 export const siteTitle = 'Carnevale | Home'
 
 export default function Layout({ children, home }) {
